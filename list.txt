@@ -20,7 +20,7 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy1xdWljLWFlcy1jZG4iLAogICJhZGQiOiAi
 vless://b0f9a443-9be8-44bb-f5d5-31b7a6428dd1@cdn.dashkootek.site:30735?type=quic&security=tls&quicSecurity=chacha20-poly1305&key=abbas&headerType=none&sni=cdn.dashkootek.site#vless-quic-cha-pass-cdn
 vless://191a0879-0b58-4630-fb60-64a4c5018217@cdn.dashkootek.site:39990?type=quic&security=tls&quicSecurity=none&key=abbas&headerType=none&sni=cdn.dashkootek.site#vless-quic-noenc-pass-cdn
 vless://85cb3587-4131-4d34-a0e1-2f3a7d18f598@45.76.248.93:19007/?type=tcp&security=reality&sni=www.google.com&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&flow=xtls-rprx-vision&fp=chrome#v2-vless-reality-google-vision|XOIj.love@xray.com
-vless://5bd2d332-f759-449b-f639-be1a092c78c2@45.76.248.93:25620/?type=ws&security=none&path=%2F#vless-ws|0U7c.love@xray.com
+vless://5bd2d332-f759-449b-f639-be1a092c78c2@45.76.248.93:25620/?type=ws&security=none&path=%2F#v2-vless-ws|0U7c.love@xray.com
 vless://85cb3587-4131-4d34-a0e1-2f3a7d18f598@45.76.248.93:19007/?type=tcp&security=reality&sni=www.google.com&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&flow=xtls-rprx-vision&fp=chrome#v2-vless-reality-google-vision|XOIj.love@xray.com
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2Mi12bWVzcy10Y3AtdGxzLWNkbnxaMWswLmxvdmVAeHJheS5jb20iLAogICJhZGQiOiAic3J2Mi5kYXNoa29vdGVrLnNpdGUiLAogICJwb3J0IjogMTUwMDEsCiAgImlkIjogIjMwMWRkOWM4LWQ0YmMtNDQ2Mi1kZTYwLWYwODc5MTYxNGE5MyIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiIiwKICAidGxzIjogInRscyIKfQ==
 vless://26ed85f2-9785-4117-eb4d-e1c2416b6185@45.76.248.93:42844/?type=tcp&security=xtls&flow=#v2-vless-tcp-xtls-cdn|BkbP.love@xray.com
