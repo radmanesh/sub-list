@@ -1,5 +1,5 @@
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy10Y3Atd3MtdHZuNTN2dHF4IiwKICAiYWRkIjogImRhc2hrb290ZWsuc2l0ZSIsCiAgInBvcnQiOiAzNDU2NywKICAiaWQiOiAiYjlmNDkwZGQtY2Y0NS00YWNhLWMzMTMtNjFjZTMwM2Y2YmQ2IiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInBhdGgiOiAiLyIsCiAgInNuaSI6ICJ2bWVzcy10b3A9IiwKICAiZnAiOiAicmFuZG9taXplZCIsCiAgImFscG4iOiAiaDIiCn0=
-vless://075d0e7b-550e-446f-ebaf-99dfc6a02125@127.0.0.1:49633/?type=grpc&serviceName=&security=tls&fp=&alpn=&sni=dashkootek.site#vless-tcp-reality%20-%20camof-5fb6t994u
+vless://075d0e7b-550e-446f-ebaf-99dfc6a02125@95.179.247.95:49633/?type=grpc&serviceName=&security=tls&fp=&alpn=&sni=dashkootek.site#vless-tcp-reality%20-%20camof-5fb6t994u
 vless://ccce1dd1-7223-4f7f-d8ba-cef8f7ed2d88@dashkootek.site:22969/?type=quic&quicSecurity=none&key=&headerType=none&security=tls&fp=&alpn=&sni=dashkootek.site#vless-tcp-%20tls%20-%20camof-xi5vxpqxv
 vless://91ac96ad-6bc7-465a-ae1f-b5946313e02c@dashkootek.site:22969/?type=quic&quicSecurity=none&key=&headerType=none&security=tls&fp=&alpn=&sni=dashkootek.site#vless-tcp-%20tls%20-%20camof-ynxwukbfu
 vless://a4053070-a9dd-4f6e-88f3-2092c1f8159c@95.179.247.95:41173/?type=ws&path=%2F#vless-ws-notls-m7p95gjey
