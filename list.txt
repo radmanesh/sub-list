@@ -2,10 +2,10 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy10Y3Atd3MtdHZuNTN2dHF4IiwKICAiYWRk
 vless://075d0e7b-550e-446f-ebaf-99dfc6a02125@dashkootek.site:49633/?type=grpc&serviceName=ping&security=tls&fp=&alpn=h2%2Ch3%2Chttp%2F1.1&allowInsecure=1&sni=dashkootek.site#vless-tcp-reality%20-%20camof-5fb6t994u
 vless://ccce1dd1-7223-4f7f-d8ba-cef8f7ed2d88@dashkootek.site:22969/?type=quic&quicSecurity=none&key=&headerType=none&security=tls&fp=&alpn=h2&allowInsecure=1&sni=dashkootek.site#vless-tcp-%20tls%20-%20camof-xi5vxpqxv
 vless://91ac96ad-6bc7-465a-ae1f-b5946313e02c@dashkootek.site:22969/?type=quic&quicSecurity=none&key=&headerType=none&security=tls&fp=&alpn=h2&allowInsecure=1&sni=dashkootek.site#vless-tcp-%20tls%20-%20camof-ynxwukbfu
-vless://a4053070-a9dd-4f6e-88f3-2092c1f8159c@95.179.247.95:41173/?type=ws&path=%2F#vless-ws-notls-m7p95gjey
-vless://6d889e87-2bda-4b47-a399-1783dc091b66@95.179.247.95:41173/?type=ws&path=%2F#vless-ws-notls-18wb8nco4
-vless://1593adf5-e430-4481-fb50-f5e2dc9ed581@95.179.247.95:41173/?type=ws&path=%2F#vless-ws-notls-bmj2sf2f0
-vless://89ee321e-cb93-49fd-a00c-8ae1d6af25d4@95.179.247.95:41173/?type=ws&path=%2F#vless-ws-notls-y6zd33qgc
+vless://a4053070-a9dd-4f6e-88f3-2092c1f8159c@dashkootek.site:41173/?type=ws&path=%2F#vless-ws-notls-m7p95gjey
+vless://6d889e87-2bda-4b47-a399-1783dc091b66@dashkootek.site:41173/?type=ws&path=%2F#vless-ws-notls-18wb8nco4
+vless://1593adf5-e430-4481-fb50-f5e2dc9ed581@dashkootek.site:41173/?type=ws&path=%2F#vless-ws-notls-bmj2sf2f0
+vless://89ee321e-cb93-49fd-a00c-8ae1d6af25d4@dashkootek.site:41173/?type=ws&path=%2F#vless-ws-notls-y6zd33qgc
 vless://a645d75c-66c8-414c-d6a6-1d80b7fd7c49@dashkootek.site:20262/?type=tcp#vless-tcp-nosec-transproxy-ttyj2k662
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy0gdGNwIC0gbm9zZWMtZmoyeWV4NjR0IiwKICAiYWRkIjogImRhc2hrb290ZWsuc2l0ZSIsCiAgInBvcnQiOiA1ODg4NCwKICAiaWQiOiAiODc4YmEwNWUtYzZmZC00MjA5LWQ0ZmYtMTdjNGY4MDAzYzQ0IiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIgp9
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcyAtIHRjcCAtdGxzLWRtd2FkMjg5MyIsCiAgImFkZCI6ICJkYXNoa29vdGVrLnNpdGUiLAogICJwb3J0IjogNTQ0NjAsCiAgImlkIjogImM0ZjU0Y2IwLTk5NWYtNDBiNC1kOGM3LTc4MTNlYjI2YzNiYyIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAidGxzIiwKICAiZnAiOiAiZmlyZWZveCIKfQ==
@@ -14,7 +14,7 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcyAtIGdyY3AgLSBub3Rscy1oaGUzMzNtc2Ii
 trojan://Yl6DElbuPk@dashkootek.site:26780/?type=ws&path=%2Fws&security=tls&fp=&alpn=h2&sni=dashkootek.site#trojan%20-%20ws%20-tls-8wmw8int0
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcyAtIHdpcmVkLW9wZWgwdmxoayIsCiAgImFkZCI6ICJkYXNoa29vdGVrLnNpdGUiLAogICJwb3J0IjogNDA3MDcsCiAgImlkIjogIjk4YTA3NjBmLWQwYjgtNGFhNC05MGJlLThmMzAxN2Q4NTUxOCIsCiAgIm5ldCI6ICJncnBjIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInBhdGgiOiAiIiwKICAic25pIjogImRhc2hrb290ZWsuc2l0ZSIsCiAgImFscG4iOiAiaDIsaDMsaHR0cC8xLjEiCn0=
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy10Y3AtdGxzLTItN285amM3ZzM1IiwKICAiYWRkIjogImRhc2hrb290ZWsuc2l0ZSIsCiAgInBvcnQiOiAyMDgzLAogICJpZCI6ICIwZDMzOWFmMS1mYTNmLTRhODktOTNjYi02MmY2MDliOGNhZWQiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIKfQ==
-trojan://xzON0uv5dw@95.179.247.95:30522/?type=tcp&security=tls&fp=&alpn=&sni=dashkootek.site#trojan--303xjm7a1
+trojan://xzON0uv5dw@dashkootek.site:30522/?type=tcp&security=tls&fp=&alpn=&sni=dashkootek.site#trojan--303xjm7a1
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bUx0Y09vSXJnNTQ1aW5INlRpbEF1QXlGczBoUzYwM3M3aTNWaGluL09hYz06Zmh0cGpoNkZLSzcrVnNRNDBMNkRJano5WVVNaU14dEtzaFZseWJvTzFTdz0@dashkootek.site:44363/?type=tcp#ss-tcp-udp%3Dnotsl-crr2o5mct
 trojan://aQ8JpdI911@dashkootek.site:40143/?type=kcp&headerType=none&seed=VDJ5jxSUSh#trojan-kcp-qi9b7mt5b
 trojan://eW0uQxw40z@dashkootek.site:28523/?type=ws&path=%2F#trojan-ws-notls-m7r6xsrup
