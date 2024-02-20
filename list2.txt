@@ -1,5 +1,48 @@
-vless://85cb3587-4131-4d34-a0e1-2f3a7d18f598@45.76.248.93:19007/?type=tcp&security=reality&sni=www.google.com&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&flow=xtls-rprx-vision&fp=chrome#v2-vless-reality-google-vision|XOIj.love@xray.com
-vless://5bd2d332-f759-449b-f639-be1a092c78c2@45.76.248.93:25620/?type=ws&security=none&path=%2F#v2-vless-ws|0U7c.love@xray.com
-vless://85cb3587-4131-4d34-a0e1-2f3a7d18f598@45.76.248.93:19007/?type=tcp&security=reality&sni=www.google.com&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&flow=xtls-rprx-vision&fp=chrome#v2-vless-reality-google-vision|XOIj.love@xray.com
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2Mi12bWVzcy10Y3AtdGxzLWNkbnxaMWswLmxvdmVAeHJheS5jb20iLAogICJhZGQiOiAic3J2Mi5kYXNoa29vdGVrLnNpdGUiLAogICJwb3J0IjogMTUwMDEsCiAgImlkIjogIjMwMWRkOWM4LWQ0YmMtNDQ2Mi1kZTYwLWYwODc5MTYxNGE5MyIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiIiwKICAidGxzIjogInRscyIKfQ==
-vless://26ed85f2-9785-4117-eb4d-e1c2416b6185@45.76.248.93:42844/?type=tcp&security=xtls&flow=#v2-vless-tcp-xtls-cdn|BkbP.love@xray.com
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy10Y3Atd3MtdHZuNTN2dHF4IiwKICAiYWRkIjogImNkbi5teTRsdHJ1MXN0MWNzZXJ2MWNlc29ubGluZS5zcGFjZSIsCiAgInBvcnQiOiAzNDU2NywKICAiaWQiOiAiYjlmNDkwZGQtY2Y0NS00YWNhLWMzMTMtNjFjZTMwM2Y2YmQ2IiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInBhdGgiOiAiLyIsCiAgInNuaSI6ICJ2bWVzcy10b3A9IiwKICAiZnAiOiAicmFuZG9taXplZCIsCiAgImFscG4iOiAiaDIiCn0=
+vless://075d0e7b-550e-446f-ebaf-99dfc6a02125@cdn.my4ltru1st1cserv1cesonline.space:49633/?type=grpc&serviceName=ping&security=tls&fp=random&alpn=h2%2Ch3%2Chttp%2F1.1&allowInsecure=1#vless-tcp-reality-camof-5fb6t994u
+vless://ccce1dd1-7223-4f7f-d8ba-cef8f7ed2d88@cdn.my4ltru1st1cserv1cesonline.space:22969/?type=quic&quicSecurity=none&key=&headerType=none&security=tls&fp=&alpn=h2&allowInsecure=1&sni=cdn.my4ltru1st1cserv1cesonline.space#vless-tcp-tls-camof-xi5vxpqxv
+vless://91ac96ad-6bc7-465a-ae1f-b5946313e02c@cdn.my4ltru1st1cserv1cesonline.space:22969/?type=quic&quicSecurity=none&key=&headerType=none&security=tls&fp=&alpn=h2&allowInsecure=1&sni=cdn.my4ltru1st1cserv1cesonline.space#vless-tcp-tls-camof-ynxwukbfu
+vless://a4053070-a9dd-4f6e-88f3-2092c1f8159c@95.179.247.95:41173/?type=ws&path=%2F&security=none#vless-ws-notls-m7p95gjey
+vless://6d889e87-2bda-4b47-a399-1783dc091b66@95.179.247.95:41173/?type=ws&path=%2F&security=none#vless-ws-notls-18wb8nco4
+vless://1593adf5-e430-4481-fb50-f5e2dc9ed581@95.179.247.95:41173/?type=ws&path=%2F&security=none#vless-ws-notls-bmj2sf2f0
+vless://89ee321e-cb93-49fd-a00c-8ae1d6af25d4@95.179.247.95:41173/?type=ws&path=%2F&security=none#vless-ws-notls-y6zd33qgc
+vless://a645d75c-66c8-414c-d6a6-1d80b7fd7c49@cdn.my4ltru1st1cserv1cesonline.space:20262/?type=tcp&security=none#vless-tcp-nosec-transproxy-ttyj2k662
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy10Y3Atbm9zZWMtZmoyeWV4NjR0IiwKICAiYWRkIjogImNkbi5teTRsdHJ1MXN0MWNzZXJ2MWNlc29ubGluZS5zcGFjZSIsCiAgInBvcnQiOiA1ODg4NCwKICAiaWQiOiAiODc4YmEwNWUtYzZmZC00MjA5LWQ0ZmYtMTdjNGY4MDAzYzQ0IiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIgp9
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy10Y3AtdGxzLWRtd2FkMjg5MyIsCiAgImFkZCI6ICJjZG4ubXk0bHRydTFzdDFjc2VydjFjZXNvbmxpbmUuc3BhY2UiLAogICJwb3J0IjogNTQ0NjAsCiAgImlkIjogImM0ZjU0Y2IwLTk5NWYtNDBiNC1kOGM3LTc4MTNlYjI2YzNiYyIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAidGxzIiwKICAiZnAiOiAiZmlyZWZveCIKfQ==
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy1rY3AtdHJfcHJ4eV9hY2NwX3ByeHktYzYycTdnd3RoIiwKICAiYWRkIjogImNkbi5teTRsdHJ1MXN0MWNzZXJ2MWNlc29ubGluZS5zcGFjZSIsCiAgInBvcnQiOiAzMjQ0OCwKICAiaWQiOiAiNDE2Y2VkYTEtMjIzNi00MWYxLWJhMjUtN2MxZjc1YzVlZDZiIiwKICAibmV0IjogImtjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICJUNTVoeHNCZjAwIgp9
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy1ncmNwLW5vdGxzLWhoZTMzM21zYiIsCiAgImFkZCI6ICJjZG4ubXk0bHRydTFzdDFjc2VydjFjZXNvbmxpbmUuc3BhY2UiLAogICJwb3J0IjogNDExNjksCiAgImlkIjogIjJhYmI4NGJmLWE3MDEtNGY5NC1iMmM2LTZiZGVmMTU2MmZlMiIsCiAgIm5ldCI6ICJrY3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAia1h0TE85dERUeSIKfQ==
+trojan://Yl6DElbuPk@cdn.my4ltru1st1cserv1cesonline.space:26780/?type=ws&path=%2Fws&security=tls&fp=&alpn=h2&sni=dashkootek.site#trojan-ws-tls-8wmw8int0
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy13aXJlZC1vcGVoMHZsaGsiLAogICJhZGQiOiAiY2RuLm15NGx0cnUxc3QxY3NlcnYxY2Vzb25saW5lLnNwYWNlIiwKICAicG9ydCI6IDQwNzA3LAogICJpZCI6ICI5OGEwNzYwZi1kMGI4LTRhYTQtOTBiZS04ZjMwMTdkODU1MTgiLAogICJuZXQiOiAiZ3JwYyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJwYXRoIjogIiIsCiAgInNuaSI6ICJkYXNoa29vdGVrLnNpdGUiLAogICJhbHBuIjogImgyLGgzLGh0dHAvMS4xIgp9
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2bWVzcy10Y3AtdGxzLTItN285amM3ZzM1IiwKICAiYWRkIjogImNkbi5teTRsdHJ1MXN0MWNzZXJ2MWNlc29ubGluZS5zcGFjZSIsCiAgInBvcnQiOiAyMDgzLAogICJpZCI6ICIwZDMzOWFmMS1mYTNmLTRhODktOTNjYi02MmY2MDliOGNhZWQiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIKfQ==
+trojan://xzON0uv5dw@95.179.247.95:30522/?type=tcp&security=tls&fp=&alpn=#trojan--303xjm7a1
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bUx0Y09vSXJnNTQ1aW5INlRpbEF1QXlGczBoUzYwM3M3aTNWaGluL09hYz06Zmh0cGpoNkZLSzcrVnNRNDBMNkRJano5WVVNaU14dEtzaFZseWJvTzFTdz0@cdn.my4ltru1st1cserv1cesonline.space:44363/?type=tcp#ss-tcp-udp%3Dnotsl-crr2o5mct
+trojan://aQ8JpdI911@cdn.my4ltru1st1cserv1cesonline.space:40143/?type=kcp&headerType=none&seed=VDJ5jxSUSh&security=none#trojan-kcp-qi9b7mt5b
+trojan://eW0uQxw40z@cdn.my4ltru1st1cserv1cesonline.space:28523/?type=ws&path=%2F&security=none#trojan-ws-notls-m7r6xsrup
+trojan://a8L9BhsJZN@cdn.my4ltru1st1cserv1cesonline.space:19761/?type=ws&path=%2F&security=tls&fp=&alpn=&sni=cdn.my4ltru1st1cserv1cesonline.space#trojan-ws-tls-jh3ijhg8z
+trojan://5ArNMleDBC@cdn.my4ltru1st1cserv1cesonline.space:28596/?type=http&path=%2F&host=&security=reality&pbk=__ve84vnQsF_au-UYIH2AucFuKyBqk7mRMxo_VhtZ38&fp=firefox&sni=microsoft.com&sid=&spx=%2F#trojan-http2-reality-5fxv3yqc1
+trojan://D8YAo5CLUL@cdn.my4ltru1st1cserv1cesonline.space:17159/?type=tcp&security=tls&fp=&alpn=&sni=cdn.my4ltru1st1cserv1cesonline.space#trojan-http2-tls-sw96jf3zz
+trojan://mcLpF9dEb2@cdn.my4ltru1st1cserv1cesonline.space:24663/?type=http&path=%2F&host=&security=none#trojan-http2-notls-48v5fuy47
+trojan://GIL7hIPvLJ@cdn.my4ltru1st1cserv1cesonline.space:18556/?type=quic&quicSecurity=aes-128-gcm&key=poiqweiopqwe123%21%2123_%25%25&headerType=srtp&security=tls&fp=&alpn=#trojan-quic-aes-srtp-tls-qn3ieycxh
+trojan://swZjXdjVb3@cdn.my4ltru1st1cserv1cesonline.space:20950/?type=quic&quicSecurity=none&key=&headerType=none&security=none#trojan-quic-simple-notls-ndal6v9dq
+trojan://kTDibHHC8P@cdn.my4ltru1st1cserv1cesonline.space:34481/?type=grpc&serviceName=api&security=tls&fp=&alpn=#trojan-grcp-tls-3nv1sofvg
+trojan://MxjBUVm06M@cdn.my4ltru1st1cserv1cesonline.space:36771/?type=tcp&security=reality&pbk=kJnXmXYS_PwLmcf-ivtL6z-_09DapsGEcuu6hg7uXVU&fp=firefox&sni=microsoft.com&sid=763a82&spx=%2F#trojan-grcp-reality-olrsf0wpo
+trojan://KFfWjRhpjl@cdn.my4ltru1st1cserv1cesonline.space:56593/?type=grpc&serviceName=udp&security=none#trojan-grcp-notls-ticq4nmrg
+vless://d2de803e-fac8-413c-f69c-bee2846198db@cdn.my4ltru1st1cserv1cesonline.space:33133/?type=kcp&headerType=none&seed=A3eRsNWQ4u&security=none#vless-kcp-j1bhlti63
+
+[Interface]
+PrivateKey = WGwO5+xs5YzVxW7KHXfVKpOUCwWoDLFUSXHnLAgrlUM=
+Address = 10.0.0.0/24
+DNS = 1.1.1.1, 9.9.9.9
+MTU = 1420
+
+# new-wireguard-1
+[Peer]
+PublicKey = 2MfyYUMKjVpQAVkrZKVBHFYVhSGXTg+wPKNqARPOvxM=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = cdn.my4ltru1st1cserv1cesonline.space:36836
+PresharedKey = 1rZqrplfQ++nDbLTQ5CxRWu2+0BD97mqZgubQgM2vhc=
+
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJuZXctdm1lc3MtdGNwLVBST1hZLVRQUk9YWS1UUFJPWFktdnc3d3Q0NWJ0IiwKICAiYWRkIjogImNkbi5teTRsdHJ1MXN0MWNzZXJ2MWNlc29ubGluZS5zcGFjZSIsCiAgInBvcnQiOiAzNTI3OSwKICAiaWQiOiAiOGMwM2YyYWMtYTcwOC00OGU1LThkM2ItNzk4NDFkZDRlZTE2IiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAiY2RuLm15NGx0cnUxc3QxY3NlcnYxY2Vzb25saW5lLnNwYWNlIiwKICAiYWxwbiI6ICJoMixodHRwLzEuMSIKfQ==
+vless://268a4fe7-bd16-497c-c6fa-3b143299d352@cdn.my4ltru1st1cserv1cesonline.space:44031/?type=kcp&headerType=none&seed=PoeVNf66gq&security=none#new-vless-mKCP-TPROXY-PROXY-Redirect-1if33mba6
+vless://255b1434-fccc-4588-cf50-cc6bea081051@cdn.my4ltru1st1cserv1cesonline.space:44575/?type=grpc&serviceName=voice&mode=multi&security=reality&pbk=gfJVG5ENQVhJWToM2sz9ETQ_r3Wk9ll9MSOP_GwJays&fp=firefox&sni=microsoft.com&sid=83b9&spx=%2F#new-vless-gRPC-Reality-withCert-ewep0fwev
