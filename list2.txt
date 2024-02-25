@@ -27,35 +27,9 @@ trojan://swZjXdjVb3@cdn.my4ltru1st1cserv1cesonline.space:20950/?type=quic&quicSe
 trojan://kTDibHHC8P@cdn.my4ltru1st1cserv1cesonline.space:34481/?type=grpc&serviceName=api&security=tls&fp=&alpn=#trojan-grcp-tls-3nv1sofvg
 trojan://MxjBUVm06M@cdn.my4ltru1st1cserv1cesonline.space:36771/?type=tcp&security=reality&pbk=kJnXmXYS_PwLmcf-ivtL6z-_09DapsGEcuu6hg7uXVU&fp=firefox&sni=microsoft.com&sid=763a82&spx=%2F#trojan-grcp-reality-olrsf0wpo
 trojan://KFfWjRhpjl@cdn.my4ltru1st1cserv1cesonline.space:56593/?type=grpc&serviceName=udp&security=none#trojan-grcp-notls-ticq4nmrg
-
 vless://d2de803e-fac8-413c-f69c-bee2846198db@cdn.my4ltru1st1cserv1cesonline.space:33133/?type=kcp&headerType=none&seed=A3eRsNWQ4u&security=none#vless-kcp-j1bhlti63
-[Interface]
-PrivateKey = WGwO5+xs5YzVxW7KHXfVKpOUCwWoDLFUSXHnLAgrlUM=
-Address = 10.0.0.0/24
-DNS = 1.1.1.1, 9.9.9.9
-MTU = 1420
-
-# new-wireguard-1
-[Peer]
-PublicKey = 2MfyYUMKjVpQAVkrZKVBHFYVhSGXTg+wPKNqARPOvxM=
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = cdn.my4ltru1st1cserv1cesonline.space:36836
-PresharedKey = 1rZqrplfQ++nDbLTQ5CxRWu2+0BD97mqZgubQgM2vhc=
-
-
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJuZXctdm1lc3MtdGNwLVBST1hZLVRQUk9YWS1UUFJPWFktdnc3d3Q0NWJ0IiwKICAiYWRkIjogImNkbi5teTRsdHJ1MXN0MWNzZXJ2MWNlc29ubGluZS5zcGFjZSIsCiAgInBvcnQiOiAzNTI3OSwKICAiaWQiOiAiOGMwM2YyYWMtYTcwOC00OGU1LThkM2ItNzk4NDFkZDRlZTE2IiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAiY2RuLm15NGx0cnUxc3QxY3NlcnYxY2Vzb25saW5lLnNwYWNlIiwKICAiYWxwbiI6ICJoMixodHRwLzEuMSIKfQ==
 vless://268a4fe7-bd16-497c-c6fa-3b143299d352@cdn.my4ltru1st1cserv1cesonline.space:44031/?type=kcp&headerType=none&seed=PoeVNf66gq&security=none#new-vless-mKCP-TPROXY-PROXY-Redirect-1if33mba6
 vless://255b1434-fccc-4588-cf50-cc6bea081051@cdn.my4ltru1st1cserv1cesonline.space:44575/?type=grpc&serviceName=voice&mode=multi&security=reality&pbk=gfJVG5ENQVhJWToM2sz9ETQ_r3Wk9ll9MSOP_GwJays&fp=firefox&sni=microsoft.com&sid=83b9&spx=%2F#new-vless-gRPC-Reality-withCert-ewep0fwev
 vless://24803e93-0254-4ae2-b77a-f7f7488ffd61@cdn.my4ltru1st1cserv1cesonline.space:58862/?type=tcp&security=none#new-vless-nosec-nosniff-194ht5txx
-[Interface]
-PrivateKey = CCfcrVrJak29UWW4pPyMG1JGTyWRL1rKOtTwp9+2bH4=
-Address = 10.0.0.2/32
-DNS = 1.1.1.1, 9.9.9.9
-MTU = 1420
-
-# new-wireguard-1
-[Peer]
-PublicKey = bIRRHwX/SW3PWmDqFsq1OTaIh4YsRl2AE4D2AhSHaD0=
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = cdn.my4ltru1st1cserv1cesonline.space:37057
 vless://81ca53da-9ae3-440c-f978-88906ba4e73a@cdn.my4ltru1st1cserv1cesonline.space:34585/?type=tcp&security=none#new-vless-tcp-nosec-TPROXY-nosniff-u2i2r5ada
