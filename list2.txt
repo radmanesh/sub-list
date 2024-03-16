@@ -33,3 +33,5 @@ vless://268a4fe7-bd16-497c-c6fa-3b143299d352@my4ltru1st1cserv1cesonline.space:44
 vless://255b1434-fccc-4588-cf50-cc6bea081051@my4ltru1st1cserv1cesonline.space:44575?type=grpc&serviceName=voice&mode=multi&security=reality&pbk=gfJVG5ENQVhJWToM2sz9ETQ_r3Wk9ll9MSOP_GwJays&fp=firefox&sni=microsoft.com&sid=83b9&spx=%2F#new-vless-gRPC-Reality-withCert%7Cewep0fwev
 vless://24803e93-0254-4ae2-b77a-f7f7488ffd61@my4ltru1st1cserv1cesonline.space:58862?type=tcp&security=none#new-vless-nosec-nosniff%7C194ht5txx
 vless://81ca53da-9ae3-440c-f978-88906ba4e73a@my4ltru1st1cserv1cesonline.space:34585?type=tcp&security=none#new-vless-tcp-nosec-TPROXY-nosniff%7Cu2i2r5ada
+vless://ace1660c-b315-4b0e-e153-b6903df27b16@my4ltru1st1cserv1cesonline.space:44828?type=tcp&path=%2F&headerType=http&security=none#vless-obfscu%7C2vpokiats
+vless://e339e131-cf01-4540-9a7d-6389c516ce27@my4ltru1st1cserv1cesonline.space:23390?type=tcp&security=none#new-vless-try-work%7C82tum8e4f
